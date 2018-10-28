@@ -1,0 +1,2 @@
+# useDeviceOrientation
+subscribes to deviceOrientationEvent

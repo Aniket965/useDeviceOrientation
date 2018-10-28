@@ -1,0 +1,26 @@
+{
+    "name": "usedeviceorientation",
+    "version": "1.0.0",
+    "description": "React hook for subscribing to Device orientation",
+    "main": "index.js",
+    "repository": "",
+    "author": "Aniket Sharma <aniket965.as@gmail.com>",
+    "license": "MIT",
+    "publishConfig": {
+      "access": "public"
+    },
+    "keywords": [
+      "react",
+      "hooks",
+      "device",
+      "browser",
+      "orientation"
+    ],
+    "dependencies": {
+      "react": "^16.7.0-alpha.0"
+    },
+    "devDependencies": {
+      "react-dom": "^16.7.0-alpha.0"
+    }
+  }
+  

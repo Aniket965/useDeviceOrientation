@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "React hook for subscribing to Device orientation",
     "main": "index.js",
-    "repository": "",
+    "repository": "https://github.com/Aniket965/useDeviceOrientation",
     "author": "Aniket Sharma <aniket965.as@gmail.com>",
     "license": "MIT",
     "publishConfig": {

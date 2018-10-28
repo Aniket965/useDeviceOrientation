@@ -5,7 +5,7 @@
 
 ## Install
 
- - NPM
+ - [NPM](https://www.npmjs.com/package/usedeviceorientation)
 ```sh
 npm install usedeviceorientation --save
 ```

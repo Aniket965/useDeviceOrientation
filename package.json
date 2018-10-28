@@ -1,6 +1,6 @@
 {
     "name": "usedeviceorientation",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "React hook for subscribing to Device orientation",
     "main": "index.js",
     "repository": "https://github.com/Aniket965/useDeviceOrientation",

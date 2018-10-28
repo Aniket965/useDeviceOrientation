@@ -9,7 +9,7 @@ function useDeviceOrientation() {
   }
   useEffect(() => {
     window.addEventListener("deviceorientation", handleOrientation, true);
-    return () => document.removeEventListener('devicemotion', _ => { })
+    return () => document.removeEventListener('deviceorientation', _ => { })
 
   }, [])
 
